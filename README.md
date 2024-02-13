@@ -1,4 +1,4 @@
-# flutter_application_1
+# The "wardrobe" application
 
 A new Flutter project.
 
