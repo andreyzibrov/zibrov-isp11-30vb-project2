@@ -1,4 +1,5 @@
 # The "wardrobe" application
+![screen_look](https://github.com/andreyzibrov/zibrov-isp11-30vb-project2/assets/159270137/943d23b9-6d42-4007-b24d-21eec523c45e)
 
 A new Flutter project.
 
